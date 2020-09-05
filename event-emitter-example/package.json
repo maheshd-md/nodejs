@@ -1,0 +1,27 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "EventEmitter example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh Dhavalshankh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshd-md/nodejs.git"
+  },
+  "keywords": [
+    "#nodejs",
+    "#eventemitter"
+  ],
+  "bugs": {
+    "url": "https://github.com/maheshd-md/nodejs/issues"
+  },
+  "homepage": "https://github.com/maheshd-md/nodejs#readme",
+  "dependencies": {
+    "node-inspect": "^2.0.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
