@@ -1,0 +1,55 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.container{
+    background-color: chartreuse;
+    margin: auto;
+    width: 50vh;
+    height: 80vh;
+    overflow: scroll;
+}
+
+.message{
+    background-color: darkorange;
+    width: 50%;
+    padding: 10px;
+    margin: 10px 12px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.send{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    max-width: 985px;
+}
+
+#messageInput{
+    width: 27%;
+    border: black;
+    height: 25px;
+}
+
+.btn{
+    border: solid yellow;
+    height: 25px;
+    cursor: grab;
+}
+
+body{
+    background-color: aquamarine;
+}
